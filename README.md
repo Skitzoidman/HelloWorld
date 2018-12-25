@@ -1,6 +1,1 @@
-# HelloWorld
-
-TestTesttest
-
-ololol
-kerkrkrkrkrkr
+Repo used to store diverse things
